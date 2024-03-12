@@ -1,0 +1,7 @@
+# Created by `dart pub`
+.dart_tool/
+pubspec.lock
+
+# IntelliJ IDEA
+.idea/
+*.iml
